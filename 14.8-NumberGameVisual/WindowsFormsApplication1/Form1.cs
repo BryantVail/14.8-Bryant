@@ -82,7 +82,7 @@ namespace GuessNumberGame
             backColor = GuessThatNumber.GuessWarmCold();
             if(backColor == "blue")
             {
-                this.BackColor.GetHue
+               // this.BackColor.GetHue;            
             }
 
             }
